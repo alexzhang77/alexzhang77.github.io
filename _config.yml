@@ -6,15 +6,13 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
-base_path: "https://alexzhang77.github.io"
-
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Alex Zhang"
 title_separator          : "-"
 name                     : &name "Alex Zhang"
 description              : &description "Computer Science M.S. Student at the University of Washington"
-url                      : https://alexzhang77.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://alexzhang77.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alexzhang77/alexzhang77.github.io"
 

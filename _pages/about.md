@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a M.S. student in the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu) at the [University of Washington](https://www.washington.edu). I recieved my undergraduate degree in Computer Science from the University of Washington as well. Currently, I am conducting research as a member of the [Control & Trustworthy Robotics Lab](https://depts.washington.edu/ctrl/index.html) and the [Robot Learning Lab](https://robotlearning.cs.washington.edu) at the University of Washington. My research aims to develop scalable, efficient, and trustworthy AI-driven perception systems for real-world applications, specifically in aerial detection, robotic manipulation, and autonomous systems.
+I am an M.S. student in the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu) at the [University of Washington](https://www.washington.edu). I received my undergraduate degree in Computer Science from the University of Washington. Currently, I am conducting research as a member of the [Control & Trustworthy Robotics Lab](https://depts.washington.edu/ctrl/index.html) and the [Robot Learning Lab](https://robotlearning.cs.washington.edu) at the University of Washington. My research aims to develop scalable, efficient, and trustworthy AI-driven perception systems for real-world applications, including aerial detection, robotic manipulation, and autonomous systems.
 
 ---
 
